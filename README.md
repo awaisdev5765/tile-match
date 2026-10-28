@@ -112,4 +112,4 @@ This project uses multiple licenses for different components — see [LICENSE.md
 
 ## 📬 Contact
 
-Having issues or questions? Open an [issue](https://github.com/awaisdev5765/tile-match/issues) or email: gitlab.blinking608@passmail.net
+Having issues or questions? awaisdev5765@gmail.com
