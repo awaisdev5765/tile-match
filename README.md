@@ -49,17 +49,8 @@
 | **Persistence** | Local progress & settings managers |
 | **Tracking** | None — fully offline, FOSS release |
 
-## 📦 Installation
 
-### Via F-Droid (Recommended)
 
-1. Install [F-Droid](https://f-droid.org) on your Android device
-2. Search for **"Tile Match"**
-3. Tap **Install**
-
-Or use the direct link: [Tile Match on F-Droid](https://f-droid.org/packages/infrared.tilematch/)
-
-### Build from source
 
 ```bash
 git clone https://github.com/awaisdev5765/tile-match.git
