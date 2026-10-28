@@ -1,0 +1,3 @@
+Tile Match offers a fresh and calming take on the classic tile-matching genre. Your goal is simple: find three tiles of the same kind and tap them to move them to the bar below.
+
+The real challenge? The bar has limited space, so every move counts! Strategy is key as you must clear lower tiles to unlock those on top and avoid filling the bar.

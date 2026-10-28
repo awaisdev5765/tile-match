@@ -1,0 +1,106 @@
+# IDE / project
+*.iml
+.idea/
+.vscode/
+
+# Gradle
+/.gradle/
+gradle-wrapper.log
+
+# Build outputs
+/**/build/
+/build/
+*.apk
+*.ap_
+*.aab
+*.dex
+*.class
+*.so
+output-metadata.json
+
+# Local configuration (SDK paths, etc)
+local.properties
+*.env
+**/.env
+**/*.env
+secrets.env
+local.env
+
+# Native / NDK
+obj/
+.externalNativeBuild/
+.cxx/
+.cxx/cmake-debug/
+
+# Kotlin / Java
+*.kotlin_module
+*.jar
+
+# Keystore (keep out of repo)
+*.jks
+*.keystore
+keystore.properties
+upload-keystore.jks
+release-keystore.jks
+signing.properties
+**/keystore/**
+
+# Certificates / keys
+*.pem
+*.key
+*.p12
+*.pfx
+*.der
+*.crt
+private_key.pem
+credentials/*.json
+credentials.json
+
+# Firebase / Google
+google-services.json
+GoogleService-Info.plist
+
+# CI / config
+.github/
+.gitlab-ci.yml
+*.secret
+*.enc
+
+# Logs and temp
+*.log
+*.tmp
+*.swp
+*.pid
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Coverage / profiling
+jacoco.exec
+coverage.ec
+*.hprof
+captures/
+
+# Misc
+out/
+proguard/
+proguard-rules.pro
+app/build/
+*.map
+*.zip
+*.tar.gz
+*.exe
+
+# Build outputs
+app/release/
+app/build/
+
+# Baseline profiles specifically
+app/release/baselineProfiles/
+
+
+# Keep Gradle wrapper committed
+!gradle/wrapper/gradle-wrapper.jar
+!gradle/wrapper/gradle-wrapper.properties
+!gradle/wrapper/
