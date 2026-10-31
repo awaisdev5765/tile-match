@@ -22,7 +22,7 @@ For the full text of the license, please refer to:
 
 Or include the following notice in your source code files:
 
-  Copyright (C) 2026  [InfraRed]
+  Copyright (C) 2026  AwaisDev5765
 
   This program is free software: you can redistribute it and/or modify
   it under the terms of the GNU General Public License as published by
@@ -79,8 +79,7 @@ Recommended attribution (optional but appreciated):
 ───────────────────────────────────────────────────────────────────
 
 For questions about this license:
-  Email: gitlab.blinking608@passmail.net
-  Repository: https://gitlab.com/infrared-developer/tile-match
+  Email: awaisdev5765@gmail.com
 
 ═══════════════════════════════════════════════════════════════════
 
